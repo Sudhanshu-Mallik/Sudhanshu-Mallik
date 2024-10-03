@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockcahin projects
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on AWS programs
-- 📫 How to reach me sudha nsumallik@318gmail.com
+- 📫 How to reach me sudhansumallik@318gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
